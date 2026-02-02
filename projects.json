@@ -15,21 +15,21 @@
   },
   {
     "title": "맛집요정",
-    "description": "[리뉴얼중] 맛집요정과 대화해보세요.",
+    "description": "[리뉴얼 중] 맛집요정과 대화해보세요.",
     "status": "Renewal",
     "icon": "",
     "link": "https://matjipyojeong.webflow.io/"
   },
   {
     "title": "맛집요정 안드로이드",
-    "description": "[리뉴얼중] 원스토어에서 맛집요정 안드로이드 앱을 확인해보세요.",
+    "description": "[리뉴얼 중] 원스토어에서 맛집요정 안드로이드 앱을 확인해보세요.",
     "status": "Renewal",
     "icon": "",
     "link": "https://m.onestore.co.kr/v2/ko-kr/app/0000776995"
   },
   {
     "title": "맛집요정 카카오톡",
-    "description": "Time tracking for pottery sessions and kiln firing schedules. Analog soul, digital memory.",
+    "description": "카카오톡에서 맛집요정과 대화해 보세요.",
     "status": "Beta",
     "icon": "",
     "link": "http://pf.kakao.com/_tJfJn"
