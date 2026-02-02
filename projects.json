@@ -7,6 +7,13 @@
     "link": "https://popuplive.kro.kr/"
   },
   {
+    "title": "팝업라이브 Play MCP",
+    "description": "카카오 Play MCP 도구함에 '팝업라이브 MCP'를 추가해보세요. 당신의 LLM이 팝업 스토어 행사 정보를 알려줍니다.",
+    "status": "Active",
+    "icon": "",
+    "link": "https://playmcp.kakao.com/mcp/319"
+  },
+  {
     "title": "Matjip Fairy",
     "description": "Time tracking for pottery sessions and kiln firing schedules. Analog soul, digital memory.",
     "status": "Active",
